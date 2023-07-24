@@ -1,0 +1,52 @@
+BODY {
+    font-family: "Century Gothic",sans-serif;
+    background-color: #EFEFEF;
+    color: #444444;
+    width: 760px;
+    margin: auto;
+}
+A:link {
+    color: #444444;
+    border-width: 0px ;
+}
+A:visited {
+    color: #222222;
+    border-width: 0px ;
+}
+A:active {
+    border-width: 0px ;
+}
+.center {
+    text-align: center;
+}
+IMG {
+    border: none;
+}
+LI {
+    margin-top: 10px;
+}
+P {
+    margin-left: 0px;
+}
+H1 {
+    margin-top: 0px;
+    font-size: xx-large;
+    text-align: right;
+}
+H2, H3 {
+    font-size: medium;
+    margin-top: 20px;
+    margin-left: 0px;
+    padding: 0.5em;
+    border-width: 0em 0em 0.2em 30px;
+    border-style: solid;
+    border-color: #8888AA
+}
+H3 {
+    border-width: 0em 0em 0.1em 10px;
+    margin-left: 20px;
+    border-color: #AAAACC
+}
+ADDRESS {
+    font-size: x-small;
+}
